@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/comms-lab/', // Change this if your repo name is different
+  base: '/com-lab/', // Change this if your repo name is different
   plugins: [
     react(),
     tailwindcss(),
